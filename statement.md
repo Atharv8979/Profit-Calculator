@@ -1,5 +1,4 @@
-# Project Statement  
-## Shopkeeper Profit Calculator
+# Shopkeeper Profit Calculator
 
 ### Problem Statement
 Shopkeepers need to calculate whether an item sold gives them profit, loss, or neither.  
