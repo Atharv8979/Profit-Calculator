@@ -1,5 +1,3 @@
-# Shopkeeper Profit Calculator
-
 ### Problem Statement
 Shopkeepers need to calculate whether an item sold gives them profit, loss, or neither.  
 Doing this manually for every product can be slow and mistakes can happen.  
