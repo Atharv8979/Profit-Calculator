@@ -2,7 +2,7 @@
 
 *Name:* Atharv Bisht  
 *Reg No:* 25BCE10596  
-*Course:* CSE1021 – Problem Solving & Python Programming  
+*Course:* CSE1021 – Introduction to Problem Solving and Programming
 
 This is a small Python project that helps a shopkeeper find whether a product gives profit, loss or neither.  
 The program also stores every calculation in a CSV file and lets the user view or clear the history whenever needed.
